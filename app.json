@@ -1,4 +1,63 @@
 {
   "events": [{ "title":"Spring Key West Poker Run", "date":"March 13 – 17, 2024", "url": "https://flpowerboat.com/project/spring-poker-run/"}],
-  "videos": [{"Nor-Tech Videos": [{ "id": "KaEp0WJumGY" }, { "id": "B68YvEUg540" }, { "id": "rxNmyfjswNE" }, { "id": "jM2VCUUcAiA" }, { "id": "pwTa-DpZTRY" }]}]
+  "videos": [{"Nor-Tech Videos": [{ "id": "KaEp0WJumGY" }, { "id": "B68YvEUg540" }, { "id": "rxNmyfjswNE" }, { "id": "jM2VCUUcAiA" }, { "id": "pwTa-DpZTRY" }]}],
+  "models": [{
+    "Center Consoles": [{
+      "title": "340 Sport",
+      "description": "Rough seas have nothing on the Nor-Tech 340 Sport. The 340 Sport is ready to up your game on the water. Forward and aft seating is ideal for family outings or socializing. Everyone stays dry regardless of your motor power. Maintain a smooth plane at low speeds and feel like a pro as you entrancingly carve through the water.",
+      "imageUrl": "https://nor-techboats.com/wp-content/uploads/2019/03/banner2.png",
+      "url": "https://nor-techboats.com/nor-tech-340-sport/",
+      "specs": ["Length: 34′","Beam: 10′","Weight: 9500 lbs","Fuel: 250 gal"]
+    },{
+      "title": "390 Sport",
+      "description": "Double down in your poker runs. The Nor-Tech 390 Sport is all about speed, without leaving style, fish- and dive-ability, and luxury in the dust. The 390 delivers incredible power while still planing at near single-digit speeds. Nail the throttles and hit top speed in seconds. Don’t be fooled by this gorgeous, center console boat — you’ll be stable and dry, even in the roughest of seas.",
+      "imageUrl": "https://nor-techboats.com/wp-content/uploads/2023/08/IMG_5502-scaled.jpg",
+      "url": "https://nor-techboats.com/nor-tech-390-sport/",
+      "specs": ["Length: 39′","Beam: 10′","Weight: 12500 lbs","Fuel: 285 gal"]
+    },{
+      "title": "400 Supersport",
+      "description": "With all-new upholstery designs, the 400 Supersport is designed for those who love to enjoy high speeds on the water in both style and comfort. Every detail and cutting-edge feature showcases the updated aesthetics from the Nor-Tech design team, making this center console the perfect choice for the discerning thrill-seeker",
+      "imageUrl": "https://nor-techboats.com/wp-content/uploads/2023/08/IMG_5185-scaled.jpg.webp",
+      "url": "https://nor-techboats.com/nor-tech-400-supersport/",
+      "specs": ["Length: 40′","Beam: 10′","Weight: 13000 lbs","Fuel: 285 gal"]
+    },{
+      "title": "450 Sport",
+      "description": "Boating meets sport meets art with the Nor-Tech 450 Sport. The sleek, sweeping lines of this machine are just the start of watching heads turn. The clean, streamlined construction make this 45-foot boat look even bigger. Add quad or quint Mercury motors, and the power will magnetize you to hop on board. In fact, everyone will want to be aboard the 450 Sport, and there’s plenty of room and luxurious creature comforts — including a wraparound sofa and wetbar. As with every Nor-Tech, the 450 Sport is put through a rigorous sea trial to ensure quality control.",
+      "imageUrl": "https://nor-techboats.com/wp-content/uploads/2019/11/IMG_5524.jpg",
+      "url": "https://nor-techboats.com/nor-tech-450-sport/",
+      "specs": ["Length: 45′","Beam: 12′","Weight: 22000 lbs","Fuel: 460 gal"]
+    },{
+      "title": "550/560 Sport",
+      "description": "You have arrived to your first destination — before even pushing off the dock. With the Nor-Tech 550 or 560 Sport, you’ve reached the peak of luxury. Consider this your water limousine, fully stocked and customizable, perfect for long-range travels to your favorite islands and beyond. This all about you, your wants, and your needs. Once you’ve been aboard the 550 or 560 Sport, you won’t dream of boating any other way. Handcrafted recliners. Generous swim platform. Open or closed bow. High cruising speeds with low fuel consumption. Amenities to upgrade your already lavish lifestyle, and it’s all trailerable. The 12-foot beam allows for trailer travel without the hassle of escort vehicles. Welcome to Cloud 9.",
+      "imageUrl": "https://nor-techboats.com/wp-content/uploads/2019/11/%C2%A9Hodor_Exterior_018.jpg",
+      "url": "https://nor-techboats.com/nor-tech-550-560-sport/",
+      "specs": ["Length: 56′","Beam: 12′","Weight: 30000 lbs","Fuel: 600 gal"]
+    }],
+    "Day Yachts": [{
+      "title": "360 MC Flyer",
+      "description": "Style and grace can still be found on the water today. The Nor-Tech 360 Monte Carlo Flyer combines the elegant retro styling of classic runabouts with the cutting-edge technology of today. Experience exhilarating, effortless power that flies this powerboat to industry-leading speeds while also enjoying an expansive cockpit and the attention to detail for which Nor-Tech is known.",
+      "imageUrl": "https://nor-techboats.com/wp-content/uploads/2019/03/banner-360-MC-Flyer.jpg",
+      "url": "https://nor-techboats.com/nor-tech-360-mc-flyer/",
+      "specs": ["Length: 36′","Beam: 10′","Weight: 9000 lbs","Fuel: 230 gal"]
+    },{
+      "title": "420 Monte Carlo",
+      "description": "Be the only one at the dock with a gorgeous, handcrafted V-bottom day boat that can hit well into triple-digit speeds. The 420 Monte Carlo is definitely a charmer with its classic runabout style and large, luxurious cabin. The larger drives and props will have you daytripping offshore without a worry in the world.",
+      "imageUrl": "https://nor-techboats.com/wp-content/uploads/2019/03/banner-420-MC.jpg",
+      "url": "https://nor-techboats.com/nor-tech-420-monte-carlo/",
+      "specs": ["Length: 42′","Beam: 10′","Weight: 12500 lbs","Fuel: 310 gal"]
+    }],
+    "SuperFish": [{
+      "title": "392 Superfish",
+      "description": "Fishermen will entice even the toughest catches in the Nor-Tech 392 Superfish. Custom-built for the fisherman in mind, the 392 Superfish is a composite construction of fiberglass and Kevlar, making this one heavy, stable, and tough boat. The Superfish is a little wider at the waterline than most boats of her size and the fuel tanks are at the centerline, making for a very stable ride. Enjoy ample storage for tackle and bait, as well as a custom built-in fish station and tuna tubes. The entire single-level cockpit is self-draining via and under-deck plumbing system glassed into the cockpit liner. Your fish never had it so good!",
+      "imageUrl": "https://nor-techboats.com/wp-content/uploads/2023/08/DJI_0102.jpg",
+      "url": "https://nor-techboats.com/nor-tech-392-superfish/",
+      "specs": ["Length: 39′","Beam: 10′","Weight: 17000 lbs","Fuel: 465 gal"]
+    },{
+      "title": "452 Superfish",
+      "description": "Take a journey to your fishing grounds quickly and in unparalleled comfort. The Nor-Tech 452 is a fully equipped center console that reimagines offshore fishing, with all of the amenities you need for a winning catch. Fishing rod holders line the gunwale and the most cutting-edge Garmin electronics line the console. But this is fishing in luxury. Enjoy twin 60 gallon livewells, a foldable fishing tower, and 4 tuna tubes by your rods, not to mention air conditioning below deck. The real catch, however, is with the 452 Superfish. This fishing machine will take care of your family during a day of activities on the water and will turn heads on your poker run.",
+      "imageUrl": "https://nor-techboats.com/wp-content/uploads/2022/05/IMG_2108.jpg",
+      "url": "https://nor-techboats.com/nor-tech-452-superfish/",
+      "specs": ["Length: 45′","Beam: 12′","Weight: 22000 lbs","Fuel: 800 gal"]
+    }],
+  }]
 }
