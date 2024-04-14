@@ -36,6 +36,12 @@
       "url": "https://nor-techboats.com/nor-tech-450-sport/",
       "specs": ["Length: 45′","Beam: 12′","Weight: 22000 lbs","Fuel: 460 gal"]
     },{
+      "title": "500 Sport",
+      "description": "With a triple step hull and double helm seat design, the Nor-Tech Sport 500 offers the right mix of performance and luxury details in a center console. Few can match its level of thrilling performance when the Mercury 450R or Quad 600 fire to life and propel you forward in unmatched style",
+      "imageUrl": "https://nor-techboats.com/wp-content/uploads/2023/08/IMG_5229_2-1-scaled.jpg",
+      "url": "https://nor-techboats.com/nor-tech-500-sport/",
+      "specs": ["Length: 50′","Beam: 12′","Weight: 28000 lbs","Fuel: 670 gal"]
+    },{
       "title": "550/560 Sport",
       "description": "You have arrived to your first destination — before even pushing off the dock. With the Nor-Tech 550 or 560 Sport, you’ve reached the peak of luxury. Consider this your water limousine, fully stocked and customizable, perfect for long-range travels to your favorite islands and beyond. This all about you, your wants, and your needs. Once you’ve been aboard the 550 or 560 Sport, you won’t dream of boating any other way. Handcrafted recliners. Generous swim platform. Open or closed bow. High cruising speeds with low fuel consumption. Amenities to upgrade your already lavish lifestyle, and it’s all trailerable. The 12-foot beam allows for trailer travel without the hassle of escort vehicles. Welcome to Cloud 9.",
       "imageUrl": "https://nor-techboats.com/wp-content/uploads/2019/11/%C2%A9Hodor_Exterior_018.jpg",
@@ -54,6 +60,12 @@
       "imageUrl": "https://nor-techboats.com/wp-content/uploads/2019/03/banner-420-MC.jpg",
       "url": "https://nor-techboats.com/nor-tech-420-monte-carlo/",
       "specs": ["Length: 42′","Beam: 10′","Weight: 12500 lbs","Fuel: 310 gal"]
+    }, {
+      "title": "460 Flyer",
+      "description": "The ultimate day boat has arrived. One look at the 460 Flyer’s sleek profile on the water and you’ll see why its “Modern Classic” aesthetics design combined with any color combination you desire allows it to stand out from the crowd. From bow to stern every detail on this yacht was designed to offer luxurious seating, thrilling speed, and a boating experience like no other.",
+      "imageUrl": "https://nortechboatsco.wpengine.com/wp-content/uploads/2022/04/IMG_1012-hero.jpg",
+      "url": "https://nor-techboats.com/nor-tech-460-sport/",
+      "specs": ["Length: 46′","Beam: 12′","Weight: 24000 lbs","Fuel: 485 gal"]
     }]},{
     "SuperFish": [{
       "title": "392 Superfish",
